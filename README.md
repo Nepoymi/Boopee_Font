@@ -49,3 +49,29 @@
 `
 
 Так что приятного использования) 
+
+## Примеры символов
+
+Английский:
+
+![English](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/English.jpg) 
+
+Русский:
+
+![Russian](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Russian.jpg) 
+
+Японский:
+
+![Japanese](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Japanese.jpg) 
+
+Дополнительные символы:
+
+![Extra](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Extra.jpg) 
+
+Список групп символов (из fontforge):
+
+![Lang_list_1](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Lang_list_1.jpg) 
+
+![Lang_list_2](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Lang_list_2.jpg) 
+
+![Lang_list_3](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Lang_list_3.jpg) 
