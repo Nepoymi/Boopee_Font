@@ -64,7 +64,7 @@
 
 ![Japanese](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Japanese.jpg) 
 
-Дополнительные символы:
+Дополнительные символы латиницы (естественно не все):
 
 ![Extra](https://github.com/Nepoymi/Boopee_Font/blob/main/examples/Extra.jpg) 
 
